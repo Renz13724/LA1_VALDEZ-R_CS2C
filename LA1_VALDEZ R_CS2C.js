@@ -7,4 +7,4 @@ let = facebookAcct = "Renz Valdez";
 console.log(name);
 console.log(whatDoYouWannaBecomeInYourLife);
 console.log(gender);
-console.log(FacebookAcct); 
+console.log(facebookAcct); 
